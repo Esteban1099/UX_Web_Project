@@ -1,0 +1,61 @@
+body {
+    background-image: url("../images/fondo.jpeg");
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+
+.custom-title {
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+}
+
+.custom-btn {
+    font-family: "Roboto", sans-serif !important;
+    font-size: 24px !important;
+    background-color: rgba(127, 127, 127, 0.7) !important;
+    /* Change the background color */
+    border-color: #000000 !important;
+    /* Change the border color */
+    color: #000000 !important;
+}
+
+.custom-col-cerrar-sesion {
+    text-align: left;
+}
+
+.custom-btn-cerrar-sesion {
+    font-family: "Roboto", sans-serif !important;
+    font-size: 20px !important;
+    color: #000000 !important;
+}
+
+.custom-recetario-image {
+    width: 500px !important;
+    height: 200px !important;
+}
+
+.table thead th {
+    background-color: rgba(127, 127, 127, 0.05) !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 32px !important;
+    color: #000000 !important;
+    font-weight: normal !important;
+}
+
+.table tbody tr td {
+    background-color: rgba(127, 127, 127, 0.05) !important;
+    vertical-align: middle;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 24px !important;
+    color: #000000 !important;
+}
+
+.custom-icon {
+    font-size: 36px !important;
+    color: #000000 !important;
+}
+
+.table-bordered {
+    border-color: black !important;
+}
